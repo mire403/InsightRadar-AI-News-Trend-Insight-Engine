@@ -1,6 +1,6 @@
 <div align="center">
 
-
+# InsightRadar — AI News & Trend Insight Engine
 
 </div>
 
