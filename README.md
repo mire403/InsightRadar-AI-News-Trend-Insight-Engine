@@ -417,6 +417,17 @@ curl http://localhost:8000/insight/{id}
 | **缓存与复跑** | 文档 / Topic / Insight 存 SQLite；中间结果可缓存、可重复运行。 |
 
 ---
+---
+
+## 👤 作者 (Author)
+
+**Haoze Zheng**
+
+*   🎓 **School**: Xinjiang University (XJU)
+*   📧 **Email**: zhenghaoze@stu.xju.edu.cn
+*   🐱 **GitHub**: [mire403](https://github.com/mire403)
+
+---
 
 <p align="center">
   <strong>🛰️ InsightRadar</strong> — 从信息洪水中提炼趋势结构，面向研究者 / 产品 / 投资 / 创作者的洞察引擎。<br/>
