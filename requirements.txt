@@ -1,0 +1,34 @@
+# InsightRadar — Python 3.10+
+
+# Ingestion
+feedparser>=6.0.10
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Embedding & Vector
+numpy>=1.24.0
+sentence-transformers>=2.2.0
+scikit-learn>=1.3.0
+faiss-cpu>=1.7.4
+chromadb>=0.4.0
+
+# LLM & NLP
+openai>=1.0.0
+tiktoken>=0.5.0
+
+# Storage & Cache
+pyyaml>=6.0
+python-dotenv>=1.0.0
+diskcache>=5.6.0
+sqlalchemy>=2.0.0
+aiosqlite>=0.19.0
+
+# API
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.0.0
+
+# Scheduler & Utils
+apscheduler>=3.10.0
+httpx>=0.25.0
