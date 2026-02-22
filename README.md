@@ -418,12 +418,6 @@ curl http://localhost:8000/insight/{id}
 
 ---
 
-## 📜 License
-
-MIT
-
----
-
 <p align="center">
   <strong>🛰️ InsightRadar</strong> — 从信息洪水中提炼趋势结构，面向研究者 / 产品 / 投资 / 创作者的洞察引擎。<br/>
   <em>不是在回答「发生了什么」，而是在回答「什么正在形成共识，什么正在失控，什么值得提前注意」。</em>
