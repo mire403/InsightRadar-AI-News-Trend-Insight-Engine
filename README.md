@@ -1,4 +1,8 @@
+<div align="center">
+
 # InsightRadar — AI News & Trend Insight Engine
+
+</div>
 
 <p align="center">
   <strong>🛰️ 智能洞察雷达</strong><br/>
